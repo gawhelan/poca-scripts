@@ -10,14 +10,13 @@ To use these scripts you need to install `poca`:
     $ npm install -g poca
 
 Then create (or edit) a `.poca` file in your home directory to
-include one or more of the collections defined in this repo. For
-example:
+include one or more of the collections defined in this repo.
+The `.soda` file is written in YAML format. For example:
 
     ---
     collections:
       - name: test
-        url:
-        https://github.com/gawhelan/poca-scripts/raw/master/test/
+        url: https://github.com/gawhelan/poca-scripts/raw/master/test/
 
 With the above collections defined in your `.soda` file you can
 execute any of the scripts in the `test` collection. For example you
