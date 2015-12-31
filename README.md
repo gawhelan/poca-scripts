@@ -15,15 +15,15 @@ The `.soda` file is written in YAML format. For example:
 
     ---
     collections:
-      - name: test
-        url: https://github.com/gawhelan/poca-scripts/raw/master/test/
+      - name: example
+        url: https://github.com/gawhelan/poca-scripts/raw/master/example/
 
 With the above collections defined in your `.soda` file you can
-execute any of the scripts in the `test` collection. For example you
-can execute the `python` test sxcript by running the following
+execute any of the scripts in the `example` collection. For example you
+can execute the `python` example script by running the following
 command:
 
-    $ poca test python
+    $ poca example python
 
 You will need to have a python interpreter aleady installed for the
 script to be executed successfully.
