@@ -3,7 +3,7 @@ Poca Scripts
 
 This repository contains a collection of utility scripts that can
 be accessed directly from a server and executed on a local machine
-using (`poca`)[https://github.com/gawhelan/poca.git].
+using [`poca`](https://github.com/gawhelan/poca.git).
 
 To use these scripts you need to install `poca`:
 
