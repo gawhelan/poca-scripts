@@ -11,14 +11,14 @@ To use these scripts you need to install `poca`:
 
 Then create (or edit) a `.poca` file in your home directory to
 include one or more of the collections defined in this repo.
-The `.soda` file is written in YAML format. For example:
+The `.poca` file is written in YAML format. For example:
 
     ---
     collections:
       - name: example
         url: https://github.com/gawhelan/poca-scripts/raw/master/example/
 
-With the above collections defined in your `.soda` file you can
+With the above collections defined in your `.poca` file you can
 execute any of the scripts in the `example` collection. For example you
 can execute the `python` example script by running the following
 command:
