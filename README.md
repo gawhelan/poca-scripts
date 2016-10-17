@@ -25,5 +25,5 @@ command:
 
     $ poca example python
 
-You will need to have a python interpreter aleady installed for the
+You will need to have a python interpreter already installed for the
 script to be executed successfully.
